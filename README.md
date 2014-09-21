@@ -2,7 +2,7 @@
 Winpython project website
 =========================
 
-This is currently only a copy from [the origonal page on sourceforge]() with a few modifications regardin the latest releases. Working on more... Feel free to contribute or just criticize :)
+This is currently only a copy from [the origonal page on sourceforge](http://winpython.sourceforge.net/) with a few modifications regardin the latest releases. Working on more... Feel free to contribute or just criticize :)
 
 TODO
 ----
