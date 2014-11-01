@@ -37,28 +37,41 @@
 			<li>WinPython <strong>3.3.5.1</strong>, <a href="https://github.com/winpython/winpython/blob/master/changelogs/WinPython-3.3.5.1_History.txt">Release Information</a>. Downloads: <a href="https://sourceforge.net/projects/stonebig.u/files/Winpython_3.3/WinPython-32bit-3.3.5.1.exe/download">32bit</a> and <a href="https://sourceforge.net/projects/stonebig.u/files/Winpython_3.3/WinPython-64bit-3.3.5.1.exe/download">64bit</a></li>
 			<li>WinPython <strong>3.4.1.1</strong>, <a href="https://github.com/winpython/winpython/blob/master/changelogs/WinPython-3.4.1.1_History.txt">Release Information</a>. Downloads: <a href="https://sourceforge.net/projects/stonebig.u/files/Winpython_3.4/WinPython-32bit-3.4.1.1.exe/download">32bit</a> and <a href="https://sourceforge.net/projects/stonebig.u/files/Winpython_3.4/WinPython-64bit-3.4.1.1.exe/download">64bit</a></li>
 		</ul>
-		<p>Older releases can be found at the <a href="https://sourceforge.net/projects/winpython/files/">Downloads page of the former maintainer</a> and creator Pierre Raybaut, but note that they may be outdated.</p>
+		<p>Older releases can be found at the <a href="https://sourceforge.net/projects/winpython/files/">Downloads page of the former maintainer</a> and creator Pierre Raybaut.</p>
 		
 		<h2 id="overview">Overview</h2>
-		<p>WinPython is a free open-source portable distribution of the <a href="https://www.python.org/">Python programming language</a> for Windows XP/7/8, designed for scientists, supporting both 32bit and 64bit versions of Python 2 and Python 3.</p>
+		<p>WinPython is a free open-source portable distribution of the <a href="https://www.python.org/">Python programming language</a> under Windows XP/7/8, for scientific and education usage.</p>
 		<p><img style="width: 901px; height: 97px;" alt="WinPython Launcher Icons" src="images/winpython_launchers_2741.png" /></p>
 		<p>It is a full-featured (see what's inside <a href="https://github.com/winpython/winpython/blob/master/changelogs/WinPython-2.7.8.2.txt">WinPython 2.7</a>, <a href="https://github.com/winpython/winpython/blob/master/changelogs/WinPython-3.3.5.1.txt">WinPython 3.3</a> or <a href="https://github.com/winpython/winpython/blob/master/changelogs/WinPython-3.4.2.1.txt">WinPython 3.4</a>) Python-based scientific environment:</p>
 		<ul>
-			<li>Designed for scientists (thanks to the integrated libraries <a href="http://numpy.org/">NumPy</a>, <a href="https://www.scipy.org/">SciPy</a>, <a href="https://www.sympy.org/">Sympy</a>, <a href="http://www.matplotlib.org/">Matplotlib</a>, <a href="http://pandas.pydata.org/">Pandas</a>, <a href="https://code.google.com/p/guiqwt/">guiqwt</a>, etc.):
+			<li>Designed for scientists, data-scientists, and education (thanks to <a href="http://numpy.org/">NumPy</a>, <a href="https://www.scipy.org/">SciPy</a>, <a href="https://www.sympy.org/">Sympy</a>, <a href="http://www.matplotlib.org/">Matplotlib</a>, <a href="http://pandas.pydata.org/">Pandas</a>, <a href="https://code.google.com/p/guiqwt/">guiqwt</a>, etc.):
 			<ul>
-				<li>Regular <strong>scientific users</strong>: interactive data processing and visualization using Python with <a href="https://code.google.com/p/spyderlib/">Spyder</a> </li>
+				<li>Regular <strong>scientific users</strong> : interactive data processing and visualization using Python with <a href="https://code.google.com/p/spyderlib/">Spyder</a> </li>
 				<li><strong>Advanced scientific users and software developers</strong>: Python applications development with <a href="https://code.google.com/p/spyderlib/">Spyder</a>, version control with Mercurial and other development tools (like gettext, etc.)</li>
 			</ul></li>
-			<li><strong>Portable</strong>: preconfigured, it should run out of the box on any machine under Windows (<a href="https://sourceforge.net/p/winpython/wiki/Installation"><!-- TODO -->without any requirement</a>) and the folder containing WinPython can be moved to any location (local, network or removable drive) with most of the <a href="https://code.google.com/p/winpython/wiki/Installation#Settings">application settings</a></li>
-			<li><strong>Flexible</strong>: one can install (or should I write "use" as it's portable) as many WinPython versions as necessary (like isolated and self-consistent environments), even if those versions are running different versions of Python (2.7, 3.3 or 3.4) or different architectures (32bit or 64bit) on the same machine </li>
-			<li><strong>Customizable</strong>:
+			<li><strong>Portable</strong> :
 			<ul>
-				<li>The integrated package manager (wppm, as WinPython Package Manager) helps installing, uninstalling or upgrading Python packages (see <a href="https://sourceforge.net/p/winpython/wiki/WPPM"><!-- TODO -->WPPM wiki page</a> for more details on supported package formats) </li>
-				<li>As <a href="https://sourceforge.net/p/winpython/wiki/WPPM"><!-- TODO -->WPPM</a> may not support some packages, it's also possible to install or upgrade packages using <tt>easy_install</tt> or <tt>pip</tt> from the WinPython command prompt </li>
-				<li>A configuration file allows to set <a href="https://sourceforge.net/p/winpython/wiki/Environment"><!-- TODO -->environment variables</a> at runtime </li>
+				<li>it runs out of the box on any Windows with 2Go Ram (Ipython Notebook needs Windows>XP, and a recent browser)</li>
+                <li>the WinPython folder can be moved to any location (local, network, usb drive) with most of the <a href="https://code.google.com/p/winpython/wiki/Installation#Settings">application settings</a></li>
+            </ul>
+			<li><strong>Flexible</strong> : 
+			<ul>
+				<li>you can install as many WinPython as you want on the same machine : each one is isolated and self-consistent</li>
+				<li>these installations can be of different versions of Python (2.7, 3.3 or 3.4) or different architectures (32bit or 64bit)</li>
+            </ul>
+			<li><strong>Customizable</strong> :
+			<ul>
+				<li>The integrated WinPython Package Manager (<a href="https://sourceforge.net/p/winpython/wiki/WPPM">WPPM</a>) helps installing, uninstalling or upgrading Python packages  </li>
+				<li>It's also possible to install or upgrade packages using <tt>pip</tt> from the WinPython command prompt </li>
+				<li>A configuration file allows you to set <a href="https://sourceforge.net/p/winpython/wiki/Environment">environment variables</a> at runtime </li>
 			</ul></li>
 		</ul>
-		<p>WinPython vs. Python(x,y): <strong>WinPython is not an attempt to replace <a href="https://code.google.com/p/pythonxy/">Python(x,y)</a></strong>, this is just something different (see <a href="https://sourceforge.net/p/winpython/wiki/Roadmap"><!-- TODO -->motivation and concept</a>): more flexible, easier to maintain, movable and less invasive for the OS, but certainly less user-friendly, with less packages/contents and without any integration to Windows explorer.</p>
+		<p>WinPython is <strong>something different</strong> from other Python Distributions (see historic <a href="https://sourceforge.net/p/winpython/wiki/Roadmap"> motivation and concept</a>) :</p>
+		<ul>
+			<li><strong>non-invasive</strong> : Winpython lives entirely in its own directory, without any OS installation</li>
+			<li><strong>flavors</strong> : releases with added packages are created to better fit a <a href="https://sourceforge.net/projects/stonebig.u/files/Winpython_flavors/">domain</a> out-of-the-box</li>
+			<li><strong>do your own flavor</strong> : a winpython-creator <a href="https://sourceforge.net/projects/stonebig.u/files/Do_It_Yourself/">kit</a> is made available for you</li>
+		</ul>
 		<div class="centered"><img style="width: 125px; height: 45px;" alt="WinPython Small Logos" src="images/small_logos.png" /></div>
 		
 		<h2 id="portable">Portable or not, the choice is yours!</h2>
