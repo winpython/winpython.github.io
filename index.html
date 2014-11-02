@@ -3,7 +3,7 @@
   "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en">
 <head>
-    <meta content="text/html;charset=ISO-8859-1" http-equiv="Content-Type" />
+    <meta content="text/html;charset=UTF-8" http-equiv="Content-Type" />
     <link href="favicon.ico" rel="icon" />
     <title>WinPython</title>
     <link media="screen" href="css/screen.css" type="text/css" rel="stylesheet" />
@@ -18,14 +18,15 @@
 		        <li><a href="#portable">portable</a></li>
 	        </ul>
         </div>
-        <h1><img style="width: 350px; height: 92px;" alt="WinPython" src="images/winpython_title.png" /></h1>
-        <p id="title_sub">The easiest way to run Python, Spyder with SciPy and friends on any Windows PC, without installing anything!</p>
+        <h1><a href="https://winpython.github.io/"><img style="width: 350px; height: 92px;" alt="WinPython" src="images/winpython_title.png" /></a></h1>
+        <p id="title_sub">The easiest way to run Python, Spyder with SciPy and friends out of the box on any Windows PC, without installing anything!</p>
     </div>
 	<div id="content">
-        <p>We are currently reorganizing the project structure. The project home, including source code and build documentation, can be found in our <a href="https://github.com/winpython">Github organization winpython</a>, the <a href="https://sourceforge.net/projects/stonebig.u/files/">downloads page</a> is currently on Sourceforge, the <a href="https://groups.google.com/d/forum/winpython">Discussion group</a> on Google Groups, and our <a href="https://github.com/winpython/winpython/issues">Tickets</a> are also now on Github (but the old ones are <a href="https://sourceforge.net/p/winpython/tickets/?source=navbar">on Sourceforge</a>).</p>
+        <p>The project home, including source code, documentation and tickets, can be found in our <a href="https://github.com/winpython">Github organization winpython</a>, the <a href="https://sourceforge.net/projects/stonebig.u/files/">downloads page</a> is currently on Sourceforge, the <a href="https://groups.google.com/d/forum/winpython">Discussion group</a> on Google Groups.</p>
         
 		<h2 id="releases">Recent Releases</h2>
 		<p>Released in <strong>October 2014</strong>:</p>
+		<p>Highlights: Included MinGW-Compiler and <strong>fully integrated Cython and Numba!</strong> Want to take a look at the <a href="http://nbviewer.ipython.org/github/stonebig/winpython_afterdoc/blob/master/examples/using_cython_under_winpython32bit.ipynb">usage example</a>?</p>
 		<ul>
 			<li>WinPython <strong>2.7.8.2</strong>, <a href="https://github.com/winpython/winpython/blob/master/changelogs/WinPython-2.7.8.2_History.txt">Release Information</a>. Downloads: <a href="https://sourceforge.net/projects/stonebig.u/files/Winpython_2.7/WinPython-32bit-2.7.8.2.exe/download">32bit</a> and <a href="https://sourceforge.net/projects/stonebig.u/files/Winpython_2.7/WinPython-64bit-2.7.8.2.exe/download">64bit</a></li>
 			<li>WinPython <strong>3.3.5.2</strong>, <a href="https://github.com/winpython/winpython/blob/master/changelogs/WinPython-3.3.5.2_History.txt">Release Information</a>. Downloads: <a href="https://sourceforge.net/projects/stonebig.u/files/Winpython_3.3/WinPython-32bit-3.3.5.2.exe/download">32bit</a> and <a href="https://sourceforge.net/projects/stonebig.u/files/Winpython_3.3/WinPython-64bit-3.3.5.2.exe/download">64bit</a></li>
@@ -40,7 +41,7 @@
 		<p>Older releases can be found at the <a href="https://sourceforge.net/projects/winpython/files/">Downloads page of the former maintainer</a> and creator Pierre Raybaut.</p>
 		
 		<h2 id="overview">Overview</h2>
-		<p>WinPython is a free open-source portable distribution of the <a href="https://www.python.org/">Python programming language</a> under Windows XP/7/8, for scientific and education usage.</p>
+		<p>WinPython is a free open-source portable distribution of the <a href="https://www.python.org/">Python programming language</a> for Windows Vista/7/8 and scientific and educational usage.</p>
 		<p><img style="width: 901px; height: 97px;" alt="WinPython Launcher Icons" src="images/winpython_launchers_2741.png" /></p>
 		<p>It is a full-featured (see what's inside <a href="https://github.com/winpython/winpython/blob/master/changelogs/WinPython-2.7.8.2.txt">WinPython 2.7</a>, <a href="https://github.com/winpython/winpython/blob/master/changelogs/WinPython-3.3.5.1.txt">WinPython 3.3</a> or <a href="https://github.com/winpython/winpython/blob/master/changelogs/WinPython-3.4.2.1.txt">WinPython 3.4</a>) Python-based scientific environment:</p>
 		<ul>
@@ -52,7 +53,7 @@
 			<li><strong>Portable</strong>:
 			<ul>
 				<li>it runs out of the box on any Windows with 2Go Ram (Ipython needs Windows>XP, and Ipython Notebook a recent browser)</li>
-                <li>the WinPython folder can be moved to any location (local, network, usb drive) with most of the <a href="https://code.google.com/p/winpython/wiki/Installation#Settings">application settings</a></li>
+                <li>the WinPython folder can be moved to any location (local, network, usb drive) with most of the <a href="https://github.com/winpython/winpython/wiki/Installation#settings">application settings</a></li>
             </ul>
 			<li><strong>Flexible</strong>: 
 			<ul>
@@ -61,12 +62,12 @@
             </ul>
 			<li><strong>Customizable</strong>:
 			<ul>
-				<li>The integrated WinPython Package Manager (<a href="https://sourceforge.net/p/winpython/wiki/WPPM">WPPM</a>) helps installing, uninstalling or upgrading Python packages  </li>
+				<li>The integrated WinPython Package Manager (<a href="https://sourceforge.net/p/winpython/wiki/WPPM"><!-- TODO -->WPPM</a>) helps installing, uninstalling or upgrading Python packages  </li>
 				<li>It's also possible to install or upgrade packages using <tt>pip</tt> from the WinPython command prompt </li>
-				<li>A configuration file allows you to set <a href="https://sourceforge.net/p/winpython/wiki/Environment">environment variables</a> at runtime </li>
+				<li>A configuration file allows you to set <a href="https://sourceforge.net/p/winpython/wiki/Environment"><!-- TODO -->environment variables</a> at runtime </li>
 			</ul></li>
 		</ul>
-		<p>WinPython is <strong>something different</strong> from other Python Distributions (see historic <a href="https://sourceforge.net/p/winpython/wiki/Roadmap"> motivation and concept</a>):</p>
+		<p>WinPython is <strong>something different</strong> from other Python Distributions (see historic <a href="https://sourceforge.net/p/winpython/wiki/Roadmap"><!-- TODO --> motivation and concept</a>):</p>
 		<ul>
 			<li><strong>non-invasive</strong>: Winpython lives entirely in its own directory, without any OS installation</li>
 			<li><strong>flavors</strong>: releases with added packages are created to better fit a <a href="https://sourceforge.net/projects/stonebig.u/files/Winpython_flavors/">domain</a> out-of-the-box</li>
@@ -75,7 +76,7 @@
 		<div class="centered"><img style="width: 125px; height: 45px;" alt="WinPython Small Logos" src="images/small_logos.png" /></div>
 		
 		<h2 id="portable">Portable or not, the choice is yours!</h2>
-		<p>WinPython is a portable application, so the user should not expect any integration into Windows explorer during <a href="https://sourceforge.net/p/winpython/wiki/Installation"><!-- TODO -->installation</a>. However, the <a href="https://sourceforge.net/p/winpython/wiki/ControlPanel"><!-- TODO -->WinPython Control Panel</a> allows to "register" your distribution to Windows (see screenshot below).</p>
+		<p>WinPython is a portable application, so the user should not expect any integration into Windows explorer during <a href="https://github.com/winpython/winpython/wiki/Installation">installation</a>. However, the <a href="https://sourceforge.net/p/winpython/wiki/ControlPanel"><!-- TODO -->WinPython Control Panel</a> allows to "register" your distribution to Windows (see screenshot below).</p>
 		<p><img style="width: 453px; height: 152px;" alt="WinPython Register" src="images/wpcp_register_2741.png" /></p>
 		<p>Registering your WinPython installation will:</p>
 		<ul>
@@ -86,6 +87,7 @@
 		</ul>
 		That is exactly what the official Python installer would do to your machine: in other words, you can have it both ways!
     </div>
-	<div id="footer">© Copyright 2009-2013, Pierre Raybaut; 2014 <a href="https://github.com/winpython/">The Winpython Developement Team</a>. Last updated 2014-10-18</div>
+	<div id="footer">Â© Copyright 2009-2013, Pierre Raybaut; 2014 <a href="https://github.com/winpython/">The Winpython Developement Team</a>. Last updated 2014-10-18</div>
 </body>
 </html>
+
