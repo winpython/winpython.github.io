@@ -1,0 +1,103 @@
+
+### WinPython 2015-05 release (June 28th, 2015)
+
+MD5                              | SHA-1                                    | Binary
+---------------------------------|------------------------------------------|------------
+e275934df30b0831cad1849efd609e4f | 07c3c29cf34a0f36b804685dd6d769921f95debc | winpython-64bit-3.4.3.4.exe
+6a45b8d3e1a36e31d5526adecbf655a4 | fe28d0db8b84001cfc4bc5f45d87b63445942810 | winpython-32bit-3.4.3.4.exe
+0248dab323f56403c96f4fe84d99dc23 | 377700615b37b8adcdda8dee40cc8b6f98ed45eb | winpython-64bit-2.7.10.1.exe
+a75f94fc46710b5fd8c0eaf78512cd4b | dfc774e917880b3957e6d38dfed494c6f9346f21 | winpython-32bit-2.7.10.1.exe
+bfaab95c3cb4d3e0c851294dee37d3f5 | f8054e113244e415d527201b8f84d2bf46ff48ad | winpython-64bit-3.3.5.9.exe
+1c24ab55d28722da89882386d2268a23 | 0f67dabe88a41a487806097b26f5b2b9c26031bd | winpython-32bit-3.3.5.9.exe
+
+
+### WinPython 2015-04 release (May 12th, 2015)
+
+MD5                              | SHA-1                                    | Binary
+---------------------------------|------------------------------------------|------------
+aa82fa67756bd1880ee7c20df1aecb66 | 249320fb396023ad4182fd89bf49792af0cc3965 | winpython-32bit-3.4.3.3.exe
+21837dda642c6c1ae3d011bf13b383f4 | da6222a79e58bd9b5759b7be926b80776d423b3e | winpython-64bit-3.4.3.3.exe
+04849a7f9209fb6bdb05f9cf2f2ba50a | 24c3a5d80e698a013d0c2e2792885373df4caf8b | winpython-32bit-2.7.9.5.exe
+cf4c4d064ddafeec898ab6100203beb4 | 834d7659ea5495528b2209d70be900740252f23c | winpython-64bit-2.7.9.5.exe
+48cbc498565492a1c21d53c573187818 | 17eaf6da91f812294401a1f9dc16c0eb22ac2265 | winpython-32bit-3.3.5.8.exe
+01c8c48709b65a74682a710cfb1908f0 | 4b0bbdf70ece3ddbdd74b02c68d2078be6e14dff | winpython-64bit-3.3.5.8.exe
+
+
+### WinPython 2015-03 release (March 28th, 2015)
+
+MD5                              | SHA-1                                    | Binary
+---------------------------------|------------------------------------------|------------
+26d6b06df3fc37fa0baca26a9b8514da | 8785906c6ea4d0dafa95c5fe19d7fbbc9669f378 | winpython-32bit-3.4.3.2.exe
+a578f8adbae6a132a05d6c7797f7d897 | b7b6110a9e46caca96e25a5f8319e95a8f0e8d62 | winpython-64bit-3.4.3.2.exe
+55ee26b16069c1271a10c6d89c818978 | 68e2f9d441abe751080f310bad03606cb6bb65d7 | winpython-32bit-2.7.9.4.exe
+8bf63304ee520a9ac4fef9f778d3d05b | b3f35efc3d97306de211ba87a0f216fe0a31e72e | winpython-64bit-2.7.9.4.exe
+8bdfe63fe8ffb72dc7e6403c219c0735 | 57f146b6d2a9adf475d2853c994d6ad1f0a9d1f0 | winpython-32bit-3.3.5.7.exe
+3866f3129954a8a1e5b6e7420a12b3c9 | d8c45ddde9dd247dd9f2643ecf2caa456246b9d6 | winpython-64bit-3.3.5.7.exe
+8d2f43f909282a3599450e433559550a | f829ecbbb8aa1d85568b1fabf6c8a2ee3a6eed84 | winpython-64bit-3.4.3.2flavorrfull.exe
+78d201ddfe3b068070b6a227b520cc38 | 1dded6515074c1bd9b07c59af3b81e2f3761b9b4 | winpython-32bit-3.4.3.2flavorrfull.exe
+a6cb717d98dc65522503e757e564323b | ab8afb8e9b13c1949a6aee412444ead25f86f080 | winpython-64bit-3.4.3.2flavorjulia.exe
+3ee61d0726114b768a292245b9759334 | 6657e60ec86db414d82e92d3ec3c7b70a49c7fd9 | winpython-32bit-3.4.3.2flavorjulia.exe
+
+
+### WinPython 2015-02 release (February 28th, 2015)
+
+MD5                              | SHA-1                                    | Binary
+---------------------------------|------------------------------------------|------------
+b9fb2cc1e37a90fa5c8930d61bd89493 | 3a7cea899a9d8dada5fb5e5ddd92515c88f82355 | winpython-64bit-3.4.3.1.exe
+f573c6157f226dd9e421fda77a072249 | c492a1bd91911292c9e6cd473850dd30052f53c4 | winpython-32bit-3.4.3.1.exe
+ebff4986741e91cf46d2407d4f33daea | 594c0d34ed47b78679e89a281f20b83c4033066a | winpython-64bit-3.3.5.6.exe
+f0fa466fd1e76296ba2124f076c4b3fc | a71c68b0e685a4e64dd10c13c27fdee9ac6c8b27 | winpython-32bit-3.3.5.6.exe
+8c0da9e4f1cb35ed411ebb722e598700 | 2e19c59167b4a5f90a735f38973ab9b87c5c80e8 | winpython-64bit-2.7.9.3.exe
+08f865ff22339712b52e27d149e7d93b | cbc0cf8b465132bdae656f9aee13af6fd91e83cb | winpython-32bit-2.7.9.3.exe
+
+
+### WinPython 2015-01 release (between 2015-01-15 and 2015-01-22)
+
+MD5                              | SHA-1                                    | Binary
+---------------------------------|------------------------------------------|------------
+788f33dd67f3b710b1790917e76f8fd6 | f7ce3d94b56a40be181a6ee5bbf4458fbad40e1e | winpython-64bit-3.4.2.4.exe
+f74b2d8e5f6dd94921ee3e892e0c3622 | 28ddc164e02502ffda21dc84f93568396f38f44d | winpython-32bit-3.4.2.4.exe
+8847909442f6d27c1ef059ca1a8e84df | c34fed0f600c92606902e63b2040412e29ef7a64 | winpython-64bit-2.7.9.2.exe
+03f4ad90b1ff8d9f223c48e1238fce4f | ccbf156b3738793b574f3b492a330b2f7fb86886 | winpython-32bit-2.7.9.2.exe
+35c4731406adb1adc39176ffa2d0c01b | b32e5ae98ae28fee485773eeffb07da2ccf9f793 | winpython-64bit-3.3.5.5.exe
+208eef35fd791acae02433060e735746 | 72bebe0b375dd2863e8774737a8a755264368d90 | winpython-32bit-3.3.5.5.exe
+cf7ffd17a415391c92141a5a619fbd38 | 34fc7a23fba908f04d512406972c450f102572ba | winpython-64bit-3.4.2.4flavorrfull.exe
+ec8de77000abdbef84e2dc54553235ec | 2fa647e38c0d4e95017a7c487c6dbf6f8a3910b  | winpython-32bit-3.4.2.4flavorrfull.exe
+e489bcfbfab976f256ae093cdc145ac0 | 4dbe396b5a813a7fca9a60931293895d70123c93 | winpython-64bit-3.4.2.4flavorigraph.exe
+
+
+### WinPython 2014-12 release (2014-12-14)
+
+MD5                              | SHA-1                                    | Binary
+---------------------------------|------------------------------------------|------------
+a610b2f7d1f7ed40a57f2d3e7aa2b29d | e6af0cf08e2c0b5e66fcac6974c0cc00f5897a3b | winpython-64bit-3.4.2.3.exe
+9c3522b7d176604c8ad6d9a2a2e1cd58 | 132c2d5250a48424bbd5094b3ec338474cd738c3 | winpython-32bit-3.4.2.3.exe
+77458ac32da7776c284f4ee29841f1fe | d19609d9b518fea9d71bc9bfb34057b6c30abb7b | winpython-64bit-2.7.9.1.exe
+14405f00ede8d93c867371f0af6534cc | d08587c9d83459abe2edbd4ee704a04b07c09eb6 | winpython-32bit-2.7.9.1.exe
+390d8fab83fe7183a818df4fd08ac25b | 0386b808ca4e1eb43c3311972a2e76f3a5dca6fa | winpython-64bit-3.3.5.4.exe
+38a7d2f1c14588ee7ce567faed3dd463 | f17d214592a786b806ce32b316363618977eac29 | winpython-32bit-3.3.5.4.exe
+c835ef0bb04ea9b67e7b350a24801830 | dcd29efd45ec9e96703297ba871ec1d1bcf39211 | winpython-64bit-3.4.2.3flavorigraph.exe
+c56e06683ef98162b219b2d3d29edbc2 | 55f3f205ac67e26e873fb93e4d0811d4232b5211 | winpython-32bit-3.4.2.3flavorkivy.exe
+
+
+### WinPython 2014-11 release (2014-11-19)
+
+MD5                              | SHA-1                                    | Binary
+---------------------------------|------------------------------------------|------------
+899e03cdf138d9761e56fd7b1cf779c1 | af135550f9b7d332e35760d18bab00c4a1d1959d | winpython-64bit-3.4.2.2.exe
+99b794f5c885a320991ac76d6ec008b3 | bab62270381169f1779b36161ff2ff77196f9ecd | winpython-32bit-3.4.2.2.exe
+3523b7c36482e2c36f617f821fc1ad1d | 79ee5412e6b47d9d90ef0a33e1a3be060089ec9f | winpython-64bit-3.3.5.3.exe
+266af2dd8f605bdc30cbcf15b41cb728 | 5ad340c8c7bf7c9cec8dc20cf6c7795861163a21 | winpython-32bit-3.3.5.3.exe
+bb3b4a0c3102e819a06066f4e2d965a2 | ddc123fb16f859ea9fb6903768e16c5ddedac0d6 | winpython-64bit-2.7.8.3.exe
+7be7fa639518a882f9631d6a11142137 | 068aa05146a5e7a28bc8d3e5daf48d1ceda7ea98 | winpython-32bit-2.7.8.3.exe
+
+
+### WinPython 2014-04 release (2014-04-18, last Windows XP Compatible release)
+
+MD5                              | SHA-1                                    | Binary
+---------------------------------|------------------------------------------|------------
+dfdee2944e3f26bca0787ede4582cc3c | 89882c3a99a54075c45012bc7bd133d29f925b1d | winpython-64bit-2.7.6.4.exe
+4476d06fd5059f156ed5fe17432d69f4 | ad83a88d0f2cc64dc161f7105850fe6c87da2c15 | winpython-32bit-2.7.6.4.exe
+fb6c256442079099e0fec5b37c49ca64 | 224e5f754c3e49c20458b4c560034d9c331ee190 | winpython-64bit-3.3.5.0.exe
+ccc8af61ae894a8fa052c49c8ecf2ad1 | df5280fb911ca7d1ad09bcb089a98693b14e566e | winPython-32bit-3.3.5.0.exe
+
