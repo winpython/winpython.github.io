@@ -1,4 +1,17 @@
 
+### WinPython 2015-07 release (October 29th, 2015)
+
+MD5                              | SHA-1                                    | Binary                         | Size
+---------------------------------|------------------------------------------|--------------------------------|------------------
+c332b2a6c40dae93b39711b7dda2949f | d1fd2b65dde03f02894b6120cf51b6c7beadc00e | winpython-64bit-3.4.3.6Qt5.exe | 283 569 624 Bytes
+c30fd4e28775bdccc724aeb0e25b6e86 | 4304fdb89f98c3ee20eb7d9f206d2df3c29f65bb | winpython-32bit-3.4.3.6Qt5.exe | 227 633 183 Bytes
+56d43b96d221a6af29bd1c8e7f3f6cef | 14c67a5d5211808195ec17a41b18cc4ab1d0ceba | winpython-64bit-3.4.3.6.exe    | 277 961 635 Bytes
+ddeb7a4b7f3d7ae06e00626f87468e9e | 8391a55c729df4a937eddb8b79a7318e1c47667e | winpython-32bit-3.4.3.6.exe    | 223 807 842 Bytes
+1e28d9bdf45f2cef76d374b1d419ad19 | a12c438c6be38c8c574f5f4548047a262996e788 | winpython-64bit-2.7.10.3.exe   | 275 838 261 Bytes
+8b3e5ba2e9943452907cadcddba47260 | 35bdea16ecf83b5458292c1f5f6bcb06d8a41d33 | winpython-32bit-2.7.10.3.exe   | 220 465 855 Bytes
+
+
+
 ### WinPython 2015-06 release (August 9th, 2015)
 
 MD5                              | SHA-1                                    | Binary                         | Size
