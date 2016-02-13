@@ -13,6 +13,12 @@ d1dd2898a7934aa01ba51465374cfab3 | 321c4404fe016235ce41b03ff04eaa6ea5de87ce | wi
 db1c03db46988c88a81bbdf0df40037e | 859e84e242db6e55f4958bb1ca0ff8e2115e10be | winpython-32bit-3.4.4.1qt5.exe  | 246 482 598 Bytes
 b5a0391082aa92b1a75c9aa3a811c999 | b951f0dbc4e91429efb0b8cddbd67223439be9f8 | winpython-32bit-3.4.4.1.exe     | 242 664 150 Bytes
 
+(complement of February 13th)
+MD5                              | SHA-1                                    | Binary                          | Size
+---------------------------------|------------------------------------------|---------------------------------|------------------
+957a696479610820f5226d6b6a3f1357 | 5f317a3c88b0b5b6be5b9c37cb07b9fd7d2019c6 | winpython-32bit-3.5.1.2zero.exe | 20 581 843 Bytes
+bcbde0c3522ccc4081e9fa24aa1c5d23 | 40e548f9989838dc0d50515f3335ddd0a8bcc81d | winpython-32bit-3.5.1.2.exe     | 213 270 793 Bytes
+
 
 ### WinPython 2015-08 release (December 12th, 2015)
 
