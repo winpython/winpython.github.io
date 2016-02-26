@@ -1,23 +1,24 @@
 
 ### WinPython 2016-01 release (February 9th, 2015)
 
+ MD5                             | SHA-1                                    | SHA-256                                                          | Binary                          | Size      
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+b212fcff675f63bbeb221c393dbe9b23 | 3a2b1f5b6491b880fc6c7b9ec6b39937f5d6b1cc | bad5101b9f465fe08f7fd7aec828d3086ff4e5dd307ba4d614bc1096bee6c6df | WinPython-64bit-3.4.4.1.exe     |  286 551 000 Bytesz
+dccb657160f1e47dea77597d720bb4df | 4d9e6adff7cda3759463555c5e3a59d18459d0f0 | 500e7d33191fe9466a5d18295707f50985bf11dab3ae713d934b7d376051fdb3 | WinPython-32bit-3.4.4.1Zero.exe |   22 624 870 Bytesz
+bbc978f356bb91347cd1126a6c3eed0e | ff84b210172f0f9cbe545caa8c572cf1af7b71da | 3aabd2c10e6f888a5ef4ea2153c0b3869d05fb7196e702c92a8d9830133d46fe | WinPython-64bit-3.4.4.1Zero.exe |   23 346 896 Bytesz
+d1dd2898a7934aa01ba51465374cfab3 | 321c4404fe016235ce41b03ff04eaa6ea5de87ce | ae1685d00742b62f0979de43b377b270c2ccca0d34ccb91b6a3eae579b5b6cd9 | WinPython-64bit-3.5.1.2Zero.exe |   21 310 313 Bytesz
+596d6f263f6c8297fbdda6f831922501 | 77823c6f13df685b85ebc1c61a52500ba85e0dc0 | 07e854b9aa7a31d8bbf7829d04a45b6d6266603690520e365199af2d98751ab1 | WinPython-64bit-3.5.1.2.exe     |  248 576 409 Bytesz
+34da1d7a6821e457e2708c31494e8f1c | c159886986809db04286ef595003ee084136ce5b | 18450fd6daf1b1d085cc4d578588af1bc67e95b1667cdf4a01712a40d2520106 | WinPython-64bit-3.4.4.1Qt5.exe  |  292 125 572 Bytesz
+db1c03db46988c88a81bbdf0df40037e | 859e84e242db6e55f4958bb1ca0ff8e2115e10be | d324e8df17631d13a4d7793ab6ea68957d0b2ff08f59548d231c914925c7f3e9 | WinPython-32bit-3.4.4.1Qt5.exe  |  246 482 598 Bytesz
+b5a0391082aa92b1a75c9aa3a811c999 | b951f0dbc4e91429efb0b8cddbd67223439be9f8 | 544382aee8ef56e2a00bf9502d6e9fa14597edf7bb88b054af7bec7691da9cf3 | WinPython-32bit-3.4.4.1.exe     |  242 664 150 Bytesz
 
-MD5                              | SHA-1                                    | Binary                          | Size
----------------------------------|------------------------------------------|---------------------------------|------------------
-b212fcff675f63bbeb221c393dbe9b23 | 3a2b1f5b6491b880fc6c7b9ec6b39937f5d6b1cc | winpython-64bit-3.4.4.1.exe     | 286 551 000 Bytes
-dccb657160f1e47dea77597d720bb4df | 4d9e6adff7cda3759463555c5e3a59d18459d0f0 | winpython-32bit-3.4.4.1zero.exe | 22 624 870 Bytes
-bbc978f356bb91347cd1126a6c3eed0e | ff84b210172f0f9cbe545caa8c572cf1af7b71da | winpython-64bit-3.4.4.1zero.exe | 23 346 896 Bytes
-d1dd2898a7934aa01ba51465374cfab3 | 321c4404fe016235ce41b03ff04eaa6ea5de87ce | winpython-64bit-3.5.1.2zero.exe | 21 310 313 Bytes
-596d6f263f6c8297fbdda6f831922501 | 77823c6f13df685b85ebc1c61a52500ba85e0dc0 | winpython-64bit-3.5.1.2.exe     | 248 576 409 Bytes
-34da1d7a6821e457e2708c31494e8f1c | c159886986809db04286ef595003ee084136ce5b | winpython-64bit-3.4.4.1qt5.exe  | 292 125 572 Bytes
-db1c03db46988c88a81bbdf0df40037e | 859e84e242db6e55f4958bb1ca0ff8e2115e10be | winpython-32bit-3.4.4.1qt5.exe  | 246 482 598 Bytes
-b5a0391082aa92b1a75c9aa3a811c999 | b951f0dbc4e91429efb0b8cddbd67223439be9f8 | winpython-32bit-3.4.4.1.exe     | 242 664 150 Bytes
 
 (complement of February 13th)
-MD5                              | SHA-1                                    | Binary                          | Size
----------------------------------|------------------------------------------|---------------------------------|------------------
-957a696479610820f5226d6b6a3f1357 | 5f317a3c88b0b5b6be5b9c37cb07b9fd7d2019c6 | winpython-32bit-3.5.1.2zero.exe | 20 581 843 Bytes
-bcbde0c3522ccc4081e9fa24aa1c5d23 | 40e548f9989838dc0d50515f3335ddd0a8bcc81d | winpython-32bit-3.5.1.2.exe     | 213 270 793 Bytes
+ MD5                             | SHA-1                                    | SHA-256                                                          | Binary                          | Size      
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+957a696479610820f5226d6b6a3f1357 | 5f317a3c88b0b5b6be5b9c37cb07b9fd7d2019c6 | 77752e7c0584a7c6acb6d135409582feac81a276d1a3e54762c665abd5c37e28 | WinPython-32bit-3.5.1.2Zero.exe |   20 581 843 Bytesz
+bcbde0c3522ccc4081e9fa24aa1c5d23 | 40e548f9989838dc0d50515f3335ddd0a8bcc81d | 172d19a743ccfaf55af779d15f29f67fca83a46f08b0af855dfaf809b4184c0d | WinPython-32bit-3.5.1.2.exe     |  213 270 793 Bytesz
+
 
 
 ### WinPython 2015-08 release (December 12th, 2015)
