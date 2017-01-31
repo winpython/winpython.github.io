@@ -1,3 +1,23 @@
+### WinPython 2016-06 release (January 28th, 2017)
+
+ MD5                             | SHA-1                                    | SHA-256                                                          | Binary                          | Size              
+---------------------------------|------------------------------------------|------------------------------------------------------------------|---------------------------------|-------------------
+912ec86af16a628e74a7b111ab4c9f7e | 8b57483cf83844ac67f9ce34088d429f385dd986 | eec59983cd2a5c21db46afb444d32fcd497dab654fc963bfd4dc54b1339c887b | WinPython-64bit-2.7.13.0Zerorc3.exe |   22 514 754 Bytes
+492a27996270cc4ecc0eacf5701fec5f | 3bcea7d0c93bc3c837549029ce0bba43b71fe737 | 2fceec1de8f58661fdcb1e54a249199ff6a06de7ab42a16e8d40f883b7a6fbfb | WinPython-32bit-2.7.13.0Zerorc3.exe |   21 786 499 Bytes
+2f6a28d6c33730e6793d5b3d72d9ac8c | a19fe1c6eef7a471c87cc07955ab1720a36e7df0 | e4eeb8ae7a6bfa584b7534658f7377364e719cedb5c94e66200fcb4cd09aef1b | WinPython-32bit-3.4.4.6Zerorc3.exe |   24 477 361 Bytes
+c86687074da1a5b6a1749bf4b493c3a8 | 691f1b24b55f885f05372c9bda00e209a05fcbdb | 921596396c52f71ebb6024f7420ddace1d1e4cb1b58b9b1aba33ada8022f18c7 | WinPython-64bit-3.4.4.6Zerorc3.exe |   25 209 324 Bytes
+cc101b58502d8c3a14ac3f40d68a5c16 | 403a76350575617e1c6dd14520092b785cabe973 | 37ddd77daf69e75ca94213a3caf5a030ad4f3e2da36cb47892864b18a5c4ac10 | WinPython-64bit-3.5.3.0Zerorc3.exe |   23 639 141 Bytes
+d18fccac95fcce92406d9f5e3374eabd | e660850b94dc3f2e7643ac41ff6b0c9a7de16fc5 | 05f51b91643b59b1e168f2e52b607df564446955ff2560b1f8e4d492c981a004 | WinPython-32bit-3.5.3.0Zerorc3.exe |   22 877 999 Bytes
+ef3c1bbdb12fa9c88c0887c1f14812bc | 27a160950e34488ce571278b197f8f8b463bf1b7 | 8999d70fbee95421e3878172aaeb1a93c61a2255f32e9b0e74c0928da0319887 | WinPython-64bit-3.6.0.1Zerorc3.exe |   24 060 277 Bytes
+776605b49c3ce6a43ee78be01f26e79f | c61a3eeda003e9a0d707ea339e823fe8f8b4ec7d | ac9594c5b9aed60555572c66349827f9048eea72046e95caac71f95032e103bd | WinPython-32bit-3.6.0.1Zerorc3.exe |   23 187 398 Bytes
+1c44c989465b09af8b2edde99fbbdde1 | 59cef73ef350716da5b13fc802baf2219be6ec21 | 671849ea6d9ddc03dee5a781dbf1c94aef8dd3ac9f36646ed76a536e5d7b62cc | WinPython-64bit-3.4.4.6Qt5rc3.exe |  322 507 315 Bytes
+775691ae21d2e8241297b6ba19b60c4e | 0509fc7133ed85d082465dadda40facb9f3955ef | bf4fd9d5bffba642ffcf8cfdde7ef89d9bde8bf26f01d61d99223d0c88c1ae89 | WinPython-32bit-3.4.4.6Qt5rc3.exe |  276 840 528 Bytes
+759184d2325945c1a6c57d4c173a25d6 | 2f4cea9684887cd7d5a3c3ec5db49eea7275fd39 | 573f2d2466d20d32c44f5e9f5505438223814fb48299060587f1cc032631dae2 | WinPython-64bit-3.5.3.0Qt5rc3.exe |  309 463 663 Bytes
+6e706be98543d42955203f0bd7ecf112 | 324374786c682a03034954a3a3f49a972677beed | 8e2bc7af8b4a99cfcb44219279956604558c23685561eb44586f0a3e14485359 | WinPython-32bit-3.5.3.0Qt5rc3.exe |  258 639 732 Bytes
+d3b73dce843cb11ce98647084caf44b9 | bdf98669f93d99709bd94a5973eacc2e8e78a221 | a9c6ed5983711d21b96faf1d4ab4178ecaa0d4a4612ff0415c11f46b69495b48 | WinPython-64bit-3.6.0.1Qt5rc3.exe |  306 964 897 Bytes
+8f6d9b4b128f9c3b95cc0becc6b3ab4c | f1378c9d0a4df4fea28716251562accffb833901 | c5acdfbfb57edbc395cce053bad807db61335fb1cd7abf5f209ed474b5374c2f | WinPython-32bit-3.6.0.1Qt5rc3.exe |  255 208 823 Bytes
+
+
 ### WinPython 2016-05 release (November 11th, 2016)
 
  MD5                             | SHA-1                                    | SHA-256                                                          | Binary                          | Size              
