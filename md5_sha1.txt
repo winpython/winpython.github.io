@@ -1,3 +1,22 @@
+
+### WinPython 2017-01 release (April 1st, 2017)
+
+ MD5                             | SHA-1                                    | SHA-256                                                          | Binary                          | Size              
+---------------------------------|------------------------------------------|------------------------------------------------------------------|---------------------------------|-------------------
+c4002c4766fba304d5c270ca958a686f | 24e5eead109445f3438c208e3fea523f04ab32b6 | 0bad313ed945ace0560dcb21e1ee800aeb151b8bdf7fea1bb6e4d701e194b03c | WinPython-64bit-2.7.13.1Zero.exe |   22 565 591 Bytes
+143036c1115cc972053afecb0de7ac81 | da3671d7bfa09d0a3ef7b612334239e4bc36ed79 | ac3d276b18b522547bc04f759c3b7e8bfdf222d8a67b3edd847a800b8e2e1c4c | WinPython-32bit-2.7.13.1Zero.exe |   21 829 648 Bytes
+1f25177464762c93e5016530be6f077a | 744fd55d860f4623307fa5e6bd36032bc1d4e831 | 9c8bcccf5b785b573c528835b09748f09b45e61be7b909af68472e9d9c6675ce | WinPython-32bit-3.4.4.7Zero.exe |   24 535 864 Bytes
+bebe2ff787275aa8bfde91c559c56ce6 | d06d11db5dda38a8a047e128935cb722a65f087b | 333a4bfaf3287cd092a9b23f9f73dc6286d7a3703a0619fa5feee5ab35000d76 | WinPython-64bit-3.4.4.7Zero.exe |   25 264 458 Bytes
+a2a6e0c3403a498a8fec340da78fecf3 | 38e3e278cb9aed00f8b819d6cd84c145ca99c020 | 7be3ec31b85800fe0473c37f500671e5558d74a6aa934717668dba84454db4a4 | WinPython-64bit-3.5.3.1Zero.exe |   23 695 977 Bytes
+e9508c81d8828eecf83e4c9b3b6f5850 | 6f2c1b992282da944766c569876b4d61aa70011b | a062bf73fbaa70cb214a7550bb494338609dd6fca304d54cfa540d2ba37b638e | WinPython-32bit-3.5.3.1Zero.exe |   22 934 767 Bytes
+48aad4de28d99f2050f813c4273de4df | 31d5101ee6d2ab2852e91f5ba6600fc81f954812 | 91e657c6e6c86dae68e2503aada8fe9b88f096e62600c0b7dfa25ffdce21a440 | WinPython-64bit-3.6.1.0Zero.exe |   24 079 365 Bytes
+a7db287af744b8ad51254e66442b7d73 | baa07deed178b4c13100567093734cf5677a9034 | fdfb5eccbb5eaed4ca6c0d1604529fa7e84ab5d058eed172214e2d8f17fd87d7 | WinPython-32bit-3.6.1.0Zero.exe |   23 210 061 Bytes
+c668fb1911339ebca21c9908233c72ba | 7a59b850a9482b26fa5794266d4ac7ad61249471 | 9d33f82b7bbd0521e9539f92a063aa05d052b2a6b735faa5e7b97ad711f7e3a6 | WinPython-64bit-3.5.3.1Qt5.exe |  327 166 275 Bytes
+041ce6e764c5d9dcd1a708b29a216ded | dda67a0a9b63a9bf5cdb2a22ba211c0607d480a9 | 77960e28fcad39566b88c0af09d38a24ae45e83cb03458172e35d8b55279fc79 | WinPython-32bit-3.5.3.1Qt5.exe |  271 189 824 Bytes
+3c95f1285fadad47dc47adbd4f6909cb | ed64f9f0bc1740093c6d8b64be7d110434f78f34 | aed26cb79160047220db276fb39c8cab9bb4c4c4345b4f806958ac91d3ea2821 | WinPython-64bit-3.6.1.0Qt5.exe |  326 413 150 Bytes
+945b8896c565d2b208c2022577ea41d8 | a2b2a11a7e34d6643a9538dd8251fb107563beef | b91164cb0883172bdb3bbe15ee58f1be476005750a00adcf1be59e3b9895205e | WinPython-32bit-3.6.1.0Qt5.exe |  271 508 574 Bytes
+
+
 ### WinPython 2016-06 release (January 28th, 2017)
 
  MD5                             | SHA-1                                    | SHA-256                                                          | Binary                          | Size              
