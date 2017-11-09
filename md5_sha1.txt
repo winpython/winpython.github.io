@@ -1,3 +1,16 @@
+### WinPython 2017-03 release (Nomelber 7th, 2017)
+
+ MD5                             | SHA-1                                    | SHA-256                                                          | Binary                          | Size              
+---------------------------------|------------------------------------------|------------------------------------------------------------------|---------------------------------|-------------------
+886eb3266fcdea10d2218ffca3af5597 | 20cc45fdcbe76578035216ab9d2ba653ec7cc316 | 0ca0513559e2367802a32b1f5e7197f4e3c16fa0a0751b82f6536fcf4b559ed4 | WinPython-64bit-3.6.3.0Zero.exe |   25 487 989 Bytes
+aa00cd2bf158844ef3b40fd82fd8129a | 2e8de508e937894060520cb2f1c928aa888aacf0 | 9f1fdac301a7498bf3ab29b48347fc438d204a00cb1b72f80cbfc804b42c9f3f | WinPython-32bit-3.6.3.0Zero.exe |   24 729 105 Bytes
+8f479e76618466d2360fa7f2fb2ceca0 | 779467c0a1cfdcc184d1a650943605f55f297084 | a6aa991b5bf5c05f196e199f172a0ad293dccb831108bd6224e294d1176035f6 | WinPython-64bit-3.5.4.1Zero.exe |   24 740 850 Bytes
+6d4f0c3873695568633a71b8f12b0ba2 | 55d0e526134860853a0bf28b8af5037d124d99dc | eb42bf161865158a9b7e340ed41d1c52de0b3a8cc2d2ba17ac6e8fba0af4f8fe | WinPython-32bit-3.5.4.1Zero.exe |   23 967 541 Bytes
+5f3525c6a2623e72a3a117374b493c37 | 5f9627ae49cd6e547bd7fcfe929373ac1c48941f | 56259865127c3f802f1eca29528f2676317cad2fd6573ce516fc35b4441a1d3c | WinPython-32bit-3.6.3.0Qt5.exe  |  333 420 078 Bytes
+5dd0d1b50a851cb40d3afab68271ed83 | 595a7d75ed7d46bb0a35a13011ae4283438d9205 | a5efea23ede143fdacab60b8db95835de25c0173bd0d9fd53d5952648bde69b9 | WinPython-64bit-3.6.3.0Qt5.exe  |  408 989 671 Bytes
+201731794ab6289dcf8793cb6fea9193 | 15b05dd731cb7320434a738678cca53ec4117058 | e58b0c86fc4e6ae4fe3f9f467008fd4e3447b5f35b7ad689ab01cdc93733d19e | WinPython-32bit-3.5.4.1Qt5.exe  |  332 268 796 Bytes
+de5216300f2577ce1591eb8e022e166c | 8d90961cc867e0852e325edce27a59db599058af | e522c8adfbd9c967fa2f692d3c313fec1f0e53724b4651ea9e969228532a9586 | WinPython-64bit-3.5.4.1Qt5.exe  |  413 530 256 Bytes
+
 
 ### WinPython 2017-02 release (August 19st, 2017)
 
