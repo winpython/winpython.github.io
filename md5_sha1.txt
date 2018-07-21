@@ -1,4 +1,18 @@
-### WinPython 2018-01 release (April 7th, 2017)
+### WinPython 2018-02 release (July 21st, 2018)
+
+ MD5                             | SHA-1                                    | SHA-256                                                          | Binary                          | Size              
+---------------------------------|------------------------------------------|------------------------------------------------------------------|---------------------------------|-------------------
+80703f394294aba5884a4b947d7ed812 | c9b452409ba5808b2f10b3ef94d9afafd57c726c | 3505eda2a3074c50fdb6afab002950de7e17aad5e7d8c5e8b707d4e42285971a | WinPython64-3.6.6.1Zerorc.exe     |   26 221 961 Bytes
+c7efe85fd3e45b0aa585c8fdc7500d1f | 9e1d9bd4cfffd81e119792855c188a5ad41f199d | f395723d0caaf91c0d18ddda19c90fafbe36277a53447366512567ea55ee4076 | WinPython32-3.6.6.1Zerorc.exe     |   25 443 160 Bytes
+4d3e138fd575bd5c47d45aec082f79bf | 5af2319d9d49142150d6a0418c01de7c75a995b9 | b8d3c236148e992ff1da78519b39c01c04de6c5bc7130de0c54ad8680ef6480e | WinPython32-3.6.6.1Qt5rc.exe      |  340 056 628 Bytes
+141524228c172dc6c6e3c2b33b8a6460 | e75d8342d3a226206316c0d38dfae793020e50e1 | 8d0dbde2563c081ae441eba56504e83686c462ba8f36951fe38aed7a2df2ce1b | WinPython64-3.6.6.1Qt5rc.exe      |  434 905 324 Bytes
+0b627e2a487d65588807f36be671799a | 632ce39bcf5b8c3bde46839cbfd3e3d354f11563 | d41732eb916e181c9e4b3d290a606668dbe27d75d96cc51350f5f4c69874290f | WinPython64-3.7.0.1Zerorc.exe   |   26 897 832 Bytes
+23eaaa72a21871e11897b93d1900b2fe | d5f7afa2f077af44bfc06c35b300956556d01293 | d0bb43ccb38b9f267f7b8967d57561cfcb9836eae4547ec68488bcfc1d76134a | WinPython32-3.7.0.1Zerorc.exe   |   26 138 246 Bytes
+d5924b31af8186bf35ca0ce9a67ff997 | 43d4ba28650d2bdde1ffcac7205665102ffb5bc3 | 44fe3c121cf534280a977155f30418c2d312bab3b1267bf4d330e1eef34e8fc0 | WinPython32-3.7.0.1rc.exe       |  337 926 065 Bytes
+3af2787fd6cddf0512b31dba18115a81 | 4d59ff304cadb3f34d957e162f3cad8a601e86e0 | 0a020b141c83ce8530006f680271a46b55ce1043fa94e49e49b19b18d9dbc107 | WinPython64-3.7.0.1rc.exe       |  430 540 280 Bytes
+
+
+### WinPython 2018-01 release (April 7th, 2018)
 
  MD5                             | SHA-1                                    | SHA-256                                                          | Binary                          | Size              
 ---------------------------------|------------------------------------------|------------------------------------------------------------------|---------------------------------|-------------------
