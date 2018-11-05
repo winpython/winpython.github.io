@@ -1,3 +1,17 @@
+### WinPython 2018-04 release (November 4th, 2018)
+
+ MD5                             | SHA-1                                    | SHA-256                                                          | Binary                          | Size              
+---------------------------------|------------------------------------------|------------------------------------------------------------------|---------------------------------|-------------------
+b5700d3ddda8f7b83655a1ec4cf420bd | efab36a7596fd6ecd034260b2fef6b4da41d2e4d | e52e2606f3a2f7d79fd9eac0701b144efe0832ecdcf7c5a2f3bf3aebba4e70c6 | Winpython64-3.6.7.0Zero.exe     |   27 698 479 Bytes
+12efc1e0ef3efe14181bf0dc90a3541d | 356f8c9a8e012b01bffbbbe4aa3c92deb66c85cf | 8b6b22f36aecb80ce8b13212deb4bbba0e9a902ddd081d7c6288cf0f44e419be | Winpython32-3.6.7.0Zero.exe     |   26 917 304 Bytes
+952c151a674b394137a4b47f7df2b5a5 | 81d51e7a0ad83f0da67be89b247c07ba9ed93f21 | 4e81abd373c089cd9b6687393bb3d179e6792a97d8f088f77d35b9067f118c0f | Winpython64-3.7.1.0Zero.exe     |   28 355 587 Bytes
+956a310ef3d120909f590d6cdf0ac080 | 5cc176132d3fcdf35cad959e403953fa212a17a3 | a09c79c7630278f831d257c03bab99f76d3a0e23f8b4362a3e1e2495a3aa088f | Winpython32-3.7.1.0Zero.exe     |   27 613 204 Bytes
+4b1e1a32e432d788796a3d5487516325 | 30dfdc38d24c7137092b21990baf570aeb571e76 | b89f1ad387b88bd7c2e1ebaf7491ec5635f8feabaf81cd08053aa959f45a8abb | Winpython32-3.6.7.0Qt5.exe      |  373 972 047 Bytes
+72b0612de9fdc341e87f01d9ca7b230f | 0564417d257dd409fba6027f39150d372cf10a11 | 910cccc217c03a63afa1e77cc0082eedff1c4bbec23221950bbfaa509bf8e525 | Winpython64-3.6.7.0Qt5.exe      |  488 347 626 Bytes
+8967b1ee84d26b4611c14125d4e4539a | 265ade8190cd9928f668c742bff1dda5c59ab162 | 152fdd8ec34f123a14ddf0f74f8f9038ef9ba2676bf60954fa8bf9afdd73ec4a | Winpython32-3.7.1.0.exe         |  371 975 740 Bytes
+838280aad034a0f083b6356cb3249867 | 25dd42f33f28f2390c4a19018234eba23d20b20f | e95de8d6b90c217d6a71d831367b6f94eb76ddc855f041ea1e029b081aba107e | Winpython64-3.7.1.0.exe         |  483 284 117 Bytes
+
+
 ### WinPython 2018-03 release (September 4th, 2018)
 
  MD5                             | SHA-1                                    | SHA-256                                                          | Binary                          | Size              
