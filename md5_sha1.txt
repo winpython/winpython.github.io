@@ -1,3 +1,16 @@
+### WinPython 2019-02 release (September 28th, 2019)
+
+ MD5                             | SHA-1                                    | SHA-256                                                          | Binary                          | Size              
+---------------------------------|------------------------------------------|------------------------------------------------------------------|---------------------------------|-------------------
+8453a58d431d4824f06f7c1f42f1a194 | 13a5e9f009cbb43df1264db628849550b60da12c | ec97e69de4d01f7c70278be2e7abd91a2ade757878c4d93dbdef7d4fb2acba05 | Winpython64-3.7.4.1Zero.exe     |   27 992 617 Bytes
+b6d678ce29a01531142cc89057ef42db | 7d614de4165d12fe0126b9416ed2d6efc10f3c28 | e6e6c85cb6145dc6b3a6868033cd48a4386eddd55ed2ced6940ffbc8622ed7be | Winpython32-3.7.4.1Zero.exe     |   27 007 964 Bytes
+9e0e19a4fe1ca7cc33fee7ca60b52aa6 | 311f26c61f47b239359e24f925d96f45af2601d3 | fc6c4d52c97cd99830d05ebc33a3e651b329100f36898576823ffa75eb989e2e | Winpython32-3.7.4.1.exe        |  457 812 318 Bytes
+686cc31200c753ca864f276b9798ac13 | e0f20a68957e5e7e33fd06c7c06591a08b88ea9d | f385737eb6c60460a976adc7d1e9a169cf49425f9851f75789cf3ecabb5d7cd4 | Winpython64-3.7.4.1.exe         |  644 778 229 Bytes
+e754a306df6221c2a4f0745c9f7ea03f | db497a3c5fb3be5b6d29a701f07fb55a57be2222 | a73cb4097375a0c06023c97c861710058b93a1f1a4de870fb86c7cd25db69eaf | Winpython32-3.7.4.1Ps2.exe      |  463 541 946 Bytes
+cf00fb30e5a3c58fa8a61fb20bc18f3a | 99f88506d36855da5da49a5498b26f75dfad0fd3 | a9410fb4d0d6b1b6eafc9f00fae4826b0c7a439a865cfa883ea045e6fc81e3c1 | Winpython64-3.7.4.1Ps2.exe      |  651 989 170 Bytes
+8d53722ae27d3812def1f57e8d093828 | e47293233505e84723753e304cc8fe1654bceb4c | 9cfbe3920170ac5223f3f37b3cb819492f269ecabeedc4b10be59fae810626f2 | Winpython64-3.7.4.1cod.exe      |  635 420 068 Bytes
+
+
 ### WinPython 2019-02 release (July 19th, 2019)
 
  MD5                             | SHA-1                                    | SHA-256                                                          | Binary                          | Size              
