@@ -1,4 +1,6 @@
-### WinPython 2019-02 release (September 28th, 2019)
+
+
+### WinPython 2019-03 release (September 28th, 2019)
 
  MD5                             | SHA-1                                    | SHA-256                                                          | Binary                          | Size              
 ---------------------------------|------------------------------------------|------------------------------------------------------------------|---------------------------------|-------------------
@@ -9,6 +11,16 @@ b6d678ce29a01531142cc89057ef42db | 7d614de4165d12fe0126b9416ed2d6efc10f3c28 | e6
 e754a306df6221c2a4f0745c9f7ea03f | db497a3c5fb3be5b6d29a701f07fb55a57be2222 | a73cb4097375a0c06023c97c861710058b93a1f1a4de870fb86c7cd25db69eaf | Winpython32-3.7.4.1Ps2.exe      |  463 541 946 Bytes
 cf00fb30e5a3c58fa8a61fb20bc18f3a | 99f88506d36855da5da49a5498b26f75dfad0fd3 | a9410fb4d0d6b1b6eafc9f00fae4826b0c7a439a865cfa883ea045e6fc81e3c1 | Winpython64-3.7.4.1Ps2.exe      |  651 989 170 Bytes
 8d53722ae27d3812def1f57e8d093828 | e47293233505e84723753e304cc8fe1654bceb4c | 9cfbe3920170ac5223f3f37b3cb819492f269ecabeedc4b10be59fae810626f2 | Winpython64-3.7.4.1cod.exe      |  635 420 068 Bytes
+
+Late complement (WinPython-3.8.0.0, October 19th, 2020)
+
+ MD5                             | SHA-1                                    | SHA-256                                                          | Binary                          | Size              
+---------------------------------|------------------------------------------|------------------------------------------------------------------|---------------------------------|-------------------
+58202f1f7d04e81ba83edaf4b1c30970 | 17281a168b2d2855fa0d1e94220e16cd2fb0fc6f | 5882665af26d91a5eb5e5bcf37578d2ddb822f23c75cb5408ea7f8c5f6a73ab0 | Winpython64-3.8.0.0dot.exe      |   23 708 759 Bytes
+39efc06b286a3fb0c7338e3ffe78e2b0 | cb923c1d62c7a61e8187f0edde1eba43253ccdd7 | 701265ef5fb43739f1e649a156f8b8bd4ccde8632dcd16a33a6f7e63ac8a05c7 | Winpython32-3.8.0.0dot.exe      |   22 637 174 Bytes
+80b75bcc66235f11133788a3e06308fd | dfeca5ec0c831c4b29361ae53a07a1585e2a3f86 | e4e1162f0084dbb9434f5e12160236abfda482bf589ffbcaa360bf244fa98125 | Winpython32-3.8.0.0.exe         |  433 866 399 Bytes
+7c7681af65e6513f3a7dab0e880903a5 | ed58e72379afd20171ee98cf32f68dcef62bd99c | fd1c5061f59c078bf212e9fb6d5a68261b958cb4b93800303d47b4c0c6a5e17c | Winpython64-3.8.0.0.exe         |  510 423 691 Bytes
+8f532bb2022828cebce4b6b4f2289141 | dbf728b43e4202160929b576b0629c7812df32dc | 3e936616d1f83ccef9a3549647b5b6baa6eda918c18380b7bdac399d608dbf09 | Winpython64-3.8.0.0cod.exe      |  588 818 158 Bytes
 
 
 ### WinPython 2019-02 release (July 19th, 2019)
