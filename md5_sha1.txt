@@ -1,4 +1,17 @@
 
+### WinPython 2019-04 release (RC, December 23rd, 2019)
+
+ MD5                             | SHA-1                                    | SHA-256                                                          | Binary                          | Size              
+---------------------------------|------------------------------------------|------------------------------------------------------------------|---------------------------------|-------------------
+e19742c5787384d11b387fcc862427bb | 5ef1466afd82a7c696e468a593b555e23a8fa3b7 | 632273a65fcf5dd565f8a1187bf596bd54adb0d973cbf224bfbfb658e5e8e155 | Winpython64-3.7.6.0dotrc.exe    |   23 080 378 Bytes
+2c28927c14948b09d4f5b46ff17360c2 | 85afbe3991ed81b66cb853d5fa93b18158d40979 | f51b34dbcfa02040901fafad734b232d3f0686bcfd6d0937a35b3b65aa13b5d3 | Winpython32-3.7.6.0dotrc.exe    |   22 119 015 Bytes
+c6b45ca478090c9f5338cad389cf3b27 | 6ca5db67ec097164f1493f96fb46f77810992f1d | 28163863368c7f63ff5a1cd0a3e7c2544757e7607c54057df5110eefba6d2561 | Winpython64-3.8.1.0dotrc.exe    |   23 775 397 Bytes
+ea69741f3871b4ad9e5934b481c6caaf | 3258c8bac69e10e0b4665d0ffc53d56265f1214e | 489ff4437d5bfece1adaa6917637c6c5eca69e58185493f0ff9dcd2edd5b5bb0 | Winpython32-3.8.1.0dotrc.exe    |   22 706 735 Bytes
+788a41c4afb1a17576291de3f30dfe2d | 917a1e8bdb1ef080ca916d3baca83682649f3009 | e523d55a4bbe85d55f45958b7ea5078d56a9aee6772687bee68ba223ad3f7fdd | Winpython64-3.7.6.0rc.exe       |  679 764 546 Bytes
+48485fece0e487462e1f839573b7ca9f | 9d606d9fcf492fa0cf6c98ff521298158f68c0c7 | 8fa6751fabbaef9a820516e0a6cfac7a10b1ad1a5db2d8d639f9cbba80afe8d1 | Winpython64-3.8.1.0rc.exe       |  555 895 371 Bytes
+5c1376fb69c95b25bc922d44e7e99525 | 2e12e332b359c725e694af9b47a87f3d6abd1c1e | eab496d6f7f2489068e80e0dd4956ca37e8160979d30f4bf555578a21421b811 | Winpython64-3.7.6.0codrc.exe    |  670 015 108 Bytes
+65d3cf6b30aa41f41c46dba95f9c1e63 | b854ec4021addd6134b390320593ce189f60dd85 | 58eb64fcf18086bacffaa281a8251624476a4ad64bd12bb9583fe898e103feab | Winpython64-3.8.1.0codrc.exe    |  639 199 517 Bytes
+
 
 ### WinPython 2019-03 release (September 28th, 2019)
 
