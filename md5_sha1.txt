@@ -1,4 +1,18 @@
 
+### WinPython 2020-02 release (May 30th, 2020)
+
+ MD5                             | SHA-1                                    | SHA-256                                                          | Binary                          | Size              
+---------------------------------|------------------------------------------|------------------------------------------------------------------|---------------------------------|-------------------
+fb9550ee520688bbe8c559d3a17641ac | 0f24ebd349abe4a927601aed5085bc1ef29bc5d7 | 3a19dc2afcfb5e9ed1f6b6c863ce01f62fab26214e79cdd11d01077a4d058949 | Winpython64-3.7.7.1dotrc.exe    |   23 261 081 Bytes
+066085dede3b0797c4b6f9412c596905 | 1b5a0f0720faf979f2568265e4cdb11558321374 | 6aa39bf8792a2853b245418085618e035ac4c290e20823bc3d678c4bd87defc9 | Winpython32-3.7.7.1dotrc.exe    |   22 254 422 Bytes
+fe02b8ce4f614e4523afe2242c567feb | 4b443ecef9c4ef457d11900f90074da6f6056dbf | 6f10ce63a2043c86d08264cdfdcb5fa8dad498d546765df1c392839ecc89bbdf | Winpython64-3.8.3.0dotrc.exe    |   24 135 998 Bytes
+43cb7be6ca370880df2363e354df3e52 | c45540722d62236b292e96c21588386c74100d20 | 9fcaba999cef828afa82f2b25fac5f198170134480a656796c86752ab57a6b3f | Winpython32-3.8.3.0dotrc.exe    |   23 108 507 Bytes
+474a18ef346f6cda4bd6f2c177b2e92c | d14b5f498123c7661dcd517e2806ddd6a3022786 | 9fdc53fdb468c9c5837eb7513cbee3efcb7d791b9744ffee10370556087af05c | Winpython64-3.7.7.1.exe         |  736 749 968 Bytes
+077ac421e193f643f4154bee96e78711 | 435dbb4f8ef95bc2e10548c129123ace2ea4691d | cdf73828d7fbf6fa8717fd5b9e7126fb10fb7c4a6e1783814f63390bdca96a0c | Winpython64-3.8.3.0.exe         |  728 591 527 Bytes
+4e7b04514d6f20ddfe8474aa0715c2f8 | c990b3852e824a966fd99ccd831b83026c7aabdd | 8a7a16d4337cdc2533eea2e1f9b922d4f1263a907889f7e615e33bcf252aae30 | Winpython64-3.7.7.1cod.exe      |  666 455 987 Bytes
+3094ac83518fcf037f29f6199b801e6e | 91cc5c5888ba2ecf7fc1cb014a63224dc5a47360 | f3870e8570b5f3e31821756089af1237859a6db8a971c1fea14a560d4c85a314 | Winpython64-3.8.3.0cod.exe      |  658 361 818 Bytes
+
+
 ### WinPython 2020-01 release (March 26th, 2020)
 
  MD5                             | SHA-1                                    | SHA-256                                                          | Binary                          | Size              
