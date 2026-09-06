@@ -1,0 +1,44 @@
+# The sentences a release needs that no build can know.
+#
+# Everything else the site says about a release -- versions, flavors, formats,
+# sizes, hashes, every download URL -- is read off the hashes_*.md the build
+# uploads. This file is the whole of the per-cycle hand edit.
+#
+# It currently holds 2026-03, the last final release, so it is a worked example
+# rather than a template of placeholders. Editing it for a cycle means: the
+# release block, and the [release.pythons] line for each minor.
+
+[release]
+# title as it appears in the archive and in md5_sha1.txt
+title = "WinPython 2026-03"
+# publication date; leave out to use the day the generator runs
+date = "2026-08-22"
+# the suffix on file names, "" for a final. Betas do not go on the site, so
+# this is normally "" -- it exists because the file names carry it.
+level = ""
+notes_url = "https://github.com/winpython/winpython/issues/2026#issuecomment-5285140297"
+highlights = """Python-3.13.15, Python-3.14.7, Python-3.15.0rc1, numpy-2.5.2, pandas-3.0.5, scipy-1.18.0,
+           polars-1.43.2, duckdb-1.5.5, numba-0.67.0, jupyterlab-4.6.2, spyder-6.1.6, wppm-17.12.20260816"""
+
+# The interpreter each WinPython minor ships. Not derivable: WinPython 3.15.0.4
+# shipped Python 3.15.0rc1, and the fourth number is WinPython's own.
+[release.pythons]
+"3.13" = "3.13.15"
+"3.14" = "3.14.7"
+"3.15" = "3.15.0rc1"
+
+# How each flavor is described. Stable between cycles; a new flavor needs a line.
+[flavors.dot]
+archive = "bare portable Python"
+
+[flavors.slim]
+archive = "full scientific environment"
+
+[flavors.dotf]
+archive = "bare portable Python, free-threading"
+
+[flavors.slimf]
+archive = "free-threading, no Qt stack"
+
+[flavors.whl]
+archive = "offline wheelhouse"
