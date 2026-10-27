@@ -13,6 +13,7 @@ geometry that assumption rests on.
 import datetime
 import importlib.util
 import shutil
+import tomllib
 from pathlib import Path
 
 import pytest
@@ -190,13 +191,15 @@ class TestAgainstTheRealSite:
         site = tmp_path / "site"
         shutil.copytree(SITE, site, ignore=shutil.ignore_patterns(".git"))
         before = (site / "releases.html").read_text(encoding="utf-8")
+        newest = (site / "md5_sha1.txt").read_text(encoding="utf-8").lstrip().splitlines()[0]
+        title = tomllib.loads(content.read_text(encoding="utf-8"))["release"]["title"]
 
         render.main(["render_site.py", "--tag", "2026-04", "--hashes", str(one_cycle),
                      "--site", str(site), "--content", str(content), "--date", "2026-09-06"])
 
         md5 = (site / "md5_sha1.txt").read_text(encoding="utf-8")
-        assert md5.lstrip().startswith("### WinPython 2026-03 (September 6th, 2026)")
-        assert "### WinPython 2026-03 (August 22nd, 2026)" in md5, "history must survive"
+        assert md5.lstrip().startswith(f"### {title} (September 6th, 2026)")
+        assert newest in md5, "history must survive"
 
         after = (site / "releases.html").read_text(encoding="utf-8")
         assert after.count("<details") == before.count("<details") + 1
