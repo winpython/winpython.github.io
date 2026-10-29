@@ -1,3 +1,11 @@
+### WinPython 2026-04 post1 (October 29th, 2026: regenerate WinPython64-3.14.10.0slim with stronger compression)
+
+MD5                              | SHA-1                                    | SHA-256                                                          | Binary                            | Size                 | blake2b-256                                                     
+---------------------------------|------------------------------------------|------------------------------------------------------------------|-----------------------------------|----------------------|-----------------------------------------------------------------
+89757aa24963eabbc61fe08cedba33ac | 93cc782bd24e29f7c71eed819f3a19753f28012a | 99df4d8f58db2fdcda3e629cba5d1550207b396a27c74b78bd96b753530bb217 | WinPython64-3.14.10.0slim_post1.7z |    667 873 591 Bytes | 590a6085fbcfa53cd71329dee3a0b4ffd62ac08c2f196a2ddc6d2b8c6127d90b
+436fea539e8ec3c146c0e7395aa91c76 | 69f919858af98db2ac8d7277c471306a844ccb74 | b9bb622ee95e78a326ddce9e1a808e3c38edc6853bda58a6c078fd05b866a771 | WinPython64-3.14.10.0slim_post1.exe |    668 088 786 Bytes | 2dc1614b9322a92e62867c4bf63f3aafacf168adc81fd9ef8ba9cf9b403c6c42
+
+
 ### WinPython 2026-04 (October 27th, 2026)
 
 MD5                              | SHA-1                                    | SHA-256                                                          | Binary                            | Size                 | blake2b-256                                                     
